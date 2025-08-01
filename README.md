@@ -1,8 +1,10 @@
 # Text redraw issue in react-native-macos 0.78.3
 
+Issue: https://github.com/microsoft/react-native-macos/issues/2607
+
 ## Steps to reproduce
 
-1. Clone the repository `git clone https://github.com/jamonholmgren/TextRedraw.git`
+1. Clone the repository `git clone git@github.com:jamonholmgren/TextRedraw.git`
 2. CD into the repository `cd TextRedraw`
 3. Run `npm install`
 4. Run `npm run add-logs` script to add native logs to the project
